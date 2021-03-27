@@ -1,0 +1,26 @@
+{
+  "name": "imagenet-labels-i18n",
+  "version": "1.0.0",
+  "description": "human-readable labels for imagenet, and provide multi-language json",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoye-fe/imagenet-labels-i18n.git"
+  },
+  "keywords": [],
+  "author": "luoye<luoyefe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoye-fe/imagenet-labels-i18n/issues"
+  },
+  "homepage": "https://github.com/luoye-fe/imagenet-labels-i18n#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "i18n": "^0.13.2"
+  }
+}
