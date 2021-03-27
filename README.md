@@ -6,6 +6,8 @@ Human-readable labels for imagenet, and provide multi-language json.
 
 ## Usage
 
+`npm install imagenet-labels-i18n`
+
 `imagenet-labels-i18n` export default `i18n` instance, you can use the `i18n` method directly.
 
 ```js
