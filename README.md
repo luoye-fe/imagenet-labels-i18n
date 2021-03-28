@@ -13,7 +13,7 @@ Human-readable labels for imagenet, and provide multi-language json.
 ```js
 const ImageNetLabelsI18n = require('imagenet-labels-i18n');
 // or
-import { ImageNetLabelsI18n } from 'imagenet-labels-i18n';
+import * as ImageNetLabelsI18n from 'imagenet-labels-i18n';
 
 console.log(ImageNetLabelsI18n.__('0')); // -> tench, Tinca tinca
 
